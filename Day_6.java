@@ -10,20 +10,17 @@ public class Day_6
         // static boolean b;
     public static void main(String[] args)
     {
-
-        
         /*why variable even though we can print values directly 
         bcz for future use if i want change data then i can't 
         change all the 100 entries if there are 100 entries so we need variable 
         */
-        // System.out.println(25);
-        // System.out.println(3.14);
-        // System.out.println(3.143224);
-        // System.out.println(true);
-        // // System.out.println('Ai');
-        // System.out.println("Suraj");
-        // // System.out.println(null);
-
+        System.out.println(25);
+        System.out.println(3.14);
+        System.out.println(3.143224);
+        System.out.println(true);
+        System.out.println('A'); // char will store only one value
+        System.out.println("Suraj");
+        System.out.println("null"); // null should be in double quots
 
         // variable concept 
         // byte age = 26;
@@ -45,7 +42,6 @@ public class Day_6
         // System.out.println(b4);
         // System.out.println(b1 + " " + b2 + " " + b3 + " " + b4);
 
-        
         // System.out.println(" byte        : " + a);
         // System.out.println(" int         : " + num);
         // System.out.println(" short       : " + s);
@@ -55,30 +51,30 @@ public class Day_6
         // System.out.println(" double      : " + d);
         // System.out.println(" boolean     : " + b);
 
-        // // Integer Datatypes
-        // byte byte_value = 10; // 1byte and range --> -128 to 127
-        // short short_value = 120; // 2byte and range --> 
-        // int int_value = 2000000000;
-        // long long_value = 9000000000000L;
+        // Integer Datatypes
+        byte byte_value = 10; // 1byte and range --> -128 to 127
+        short short_value = 120; // 2byte and range --> 
+        int int_value = 2000000000;
+        long long_value = 9000000000000L;
 
-        // // Float
-        // float float_value = 3.14f;
-        // double double_value = 3.14324565;
+        // Float
+        float float_value = 3.14f;
+        double double_value = 3.14324565d;
 
-        // char char_value = 'A';
-        // boolean boolean_value = true;
+        char char_value = 'A';
+        boolean boolean_value = true;
 
-        // String string_value = "Algorithms";
+        String string_value = "Algorithms";
 
-        // System.out .println("Byte value         : " + byte_value);
-        // System.out .println("Short value        : " + short_value);
-        // System.out .println("Int value          : " + int_value);
-        // System.out .println("Long value         : " + long_value);
-        // System.out .println("Float value        : " + float_value);
-        // System.out .println("Double value       : " + double_value);
-        // System.out .println("Char value         : " + char_value);
-        // System.out .println("Boolean value      : " + boolean_value);
-        // System.out .println("String value       : " + string_value);
+        System.out .println("Byte value         : " + byte_value);
+        System.out .println("Short value        : " + short_value);
+        System.out .println("Int value          : " + int_value);
+        System.out .println("Long value         : " + long_value);
+        System.out .println("Float value        : " + float_value);
+        System.out .println("Double value       : " + double_value);
+        System.out .println("Char value         : " + char_value);
+        System.out .println("Boolean value      : " + boolean_value);
+        System.out .println("String value       : " + string_value);
 
 
 
