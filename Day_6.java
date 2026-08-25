@@ -55,6 +55,32 @@ public class Day_6
         // System.out.println(" double      : " + d);
         // System.out.println(" boolean     : " + b);
 
+        // // Integer Datatypes
+        // byte byte_value = 10; // 1byte and range --> -128 to 127
+        // short short_value = 120; // 2byte and range --> 
+        // int int_value = 2000000000;
+        // long long_value = 9000000000000L;
+
+        // // Float
+        // float float_value = 3.14f;
+        // double double_value = 3.14324565;
+
+        // char char_value = 'A';
+        // boolean boolean_value = true;
+
+        // String string_value = "Algorithms";
+
+        // System.out .println("Byte value         : " + byte_value);
+        // System.out .println("Short value        : " + short_value);
+        // System.out .println("Int value          : " + int_value);
+        // System.out .println("Long value         : " + long_value);
+        // System.out .println("Float value        : " + float_value);
+        // System.out .println("Double value       : " + double_value);
+        // System.out .println("Char value         : " + char_value);
+        // System.out .println("Boolean value      : " + boolean_value);
+        // System.out .println("String value       : " + string_value);
+
+
 
 
 
