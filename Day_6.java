@@ -87,24 +87,20 @@ public class Day_6
         // byte result = (byte)num ;
         // System.out .println(result);
 
-
         // Range checking functions and codes, methods keywords
         // int a = 10;
         // System.out .println("Range : " + Integer.MAX_VALUE);
         // System.out .println("Range : " + Integer.MIN_VALUE);
         // System.out .println("Range : " + Integer.SIZE);
 
-        byte value = 127;
-        System.out .println(value);
-        value++;
-        System.out .println(value);  // Integer overflow 
+        // byte value = 127;
+        // System.out .println(value);
+        // value++;
+        // System.out .println(value);  // Integer overflow 
 
-        int x = -5;
-        System.out .println("Binary : " + Integer.toBinaryString(x));
-        int x1 = 5;
-        System.out .println("Binary : " + Integer.toBinaryString(x1));
-
-
-
+        // int x = -5;
+        // System.out .println("Binary : " + Integer.toBinaryString(x));
+        // int x1 = 5;
+        // System.out .println("Binary : " + Integer.toBinaryString(x1));
     }
 }
