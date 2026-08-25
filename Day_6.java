@@ -25,7 +25,7 @@ public class Day_6
         // System.out.println(age);
         // System.out.println(age);
 
-        // Integral type 
+        // Integral type represented in different types
         byte b1 = 10; // Decimal Value 
         byte b2 = 0b1010; // Binary Value 
         byte b3 = 012; // Octal Value
