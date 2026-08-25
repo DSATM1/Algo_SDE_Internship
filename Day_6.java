@@ -35,6 +35,7 @@ public class Day_6
         System.out.println(b2);
         System.out.println(b3);
         System.out.println(b4);
+        System.out.println(b1 + " " + b2 + " " + b3 + " " + b4);
 
 
 
