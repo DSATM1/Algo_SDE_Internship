@@ -78,6 +78,10 @@ public class Day_6
 
 
 
+        // String name1 = "Anil";
+        // String name2 = "Kumar";
+        // System.out .println(name1 + " " + name2);
+
 
 
 
