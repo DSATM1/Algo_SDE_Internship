@@ -84,8 +84,25 @@ public class Day_6
         // // 1. Widening put smaller data into larger container 
         // // class widening demo 
         // int num = 100;
-        // byte result = (byte )num ;
+        // byte result = (byte)num ;
         // System.out .println(result);
+
+
+        // Range checking functions and codes, methods keywords
+        // int a = 10;
+        // System.out .println("Range : " + Integer.MAX_VALUE);
+        // System.out .println("Range : " + Integer.MIN_VALUE);
+        // System.out .println("Range : " + Integer.SIZE);
+
+        byte value = 127;
+        System.out .println(value);
+        value++;
+        System.out .println(value);  // Integer overflow 
+
+        int x = -5;
+        System.out .println("Binary : " + Integer.toBinaryString(x));
+        int x1 = 5;
+        System.out .println("Binary : " + Integer.toBinaryString(x1));
 
 
 
