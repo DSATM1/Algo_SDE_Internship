@@ -76,13 +76,16 @@ public class Day_6
         // System.out .println("Boolean value      : " + boolean_value);
         // System.out .println("String value       : " + string_value);
 
-
-
         // String name1 = "Anil";
         // String name2 = "Kumar";
         // System.out .println(name1 + " " + name2);
 
-
+        // // Demonstration for typecasting
+        // // 1. Widening put smaller data into larger container 
+        // // class widening demo 
+        // int num = 100;
+        // byte result = (byte )num ;
+        // System.out .println(result);
 
 
 
