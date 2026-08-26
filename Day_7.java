@@ -1,6 +1,5 @@
 public class Day_7 
 {
-
     // static int add()
     // {
     //     return 24;
