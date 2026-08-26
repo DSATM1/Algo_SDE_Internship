@@ -31,6 +31,7 @@ public class Day_7
         // b--;
         // System.out.println(b);
 
-
+        // double a = (int)10.5; // Typecast
+        // System.out.println(a); 
     }
 }
