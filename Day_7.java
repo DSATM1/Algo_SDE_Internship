@@ -11,6 +11,8 @@ public class Day_7
     //     return "Suraj S P";
     // }
 
+    // static  int age;
+
     public static void main(String [] args)
     {
 
@@ -49,9 +51,16 @@ public class Day_7
         // double a = (int)10.5; // Typecast
         // System.out.println(a); 
 
-
         // int age = 25;
         // int age = 25;
         // System.out.println(age); 
+
+        // int age = 24;
+        // int age2 = 23;
+        // age2 = age;
+        // System.out.println(age);
+        // System.out.println(age2);  
+
+        // System.out.println(age);
     }
 }
