@@ -6,15 +6,16 @@ public class Day_7
     //     return 24;
     // }
 
-    static String letter()
-    {
-        return "Suraj S P";
-    }
+    // static String letter()
+    // {
+    //     return "Suraj S P";
+    // }
+
     public static void main(String [] args)
     {
 
-        System.out.println(letter());
-
+        // System.out.println(letter());
+        // System.out.println(add());
 
         // byte a = 10; // a is 10
         // byte b = 20; // b is 20
@@ -49,5 +50,8 @@ public class Day_7
         // System.out.println(a); 
 
 
+        // int age = 25;
+        // int age = 25;
+        // System.out.println(age); 
     }
 }
