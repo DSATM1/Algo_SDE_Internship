@@ -22,13 +22,15 @@ public class Day7_Activity
 
         // System.out.println();
 
-        float s1 = 10f;
-        float s2 = 5f;
-        System.out.println("Integer Division : " +(int) s1/(int)s2);
+        // float s1 = 10f;
+        // float s2 = 5f;
+        // System.out.println("Integer Division : " +(int) s1/(int)s2);
 
-        float s3 = 10;
-        float s4 = 5;
-        System.out.println("Floating Division : " + s3/s4);
+        // float s3 = 10;
+        // float s4 = 5;
+        // System.out.println("Floating Division : " + s3/s4);
+
+        
 
 
     }
