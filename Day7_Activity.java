@@ -33,6 +33,7 @@ public class Day7_Activity
         int s1 = 10;
         int s2 = 20;
         int s3 = 30;
+        int temp;
 
         System.out.println();
         System.out.println("Value1 before Swapping : " + s1);
@@ -41,9 +42,14 @@ public class Day7_Activity
         System.out.println();
         System.out.println("Value3 before Swapping : " + s3);
 
-        s1 = s1 + s2; // Value1 = 30
-        s2 = s3 - s2; // Value2 = 10
-        s3 = s1 - s2; // Value3 = 20 
+        // s1 = s1 + s2; 
+        // s2 = s3 - s2; 
+        // s3 = s1 - s2; 
+
+        temp = s1;
+        s1 = s2;
+        s2 = s3;
+        s3 = temp;
 
         System.out.println();
 
