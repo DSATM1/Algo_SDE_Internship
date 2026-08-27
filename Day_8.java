@@ -24,6 +24,7 @@ public class Day_8
         // System.out.println(c);
 
         // char and int 
+
         // char a1 = 10;
         // char b1 = 40;
         // int c1 = a1 + b1;
@@ -37,12 +38,32 @@ public class Day_8
         // long l4 = l1+l2; // Type Promotion
         // System.out.println(l4);
 
-        // short adnd long 
-        
+        // short and long 
+
         // short s1 = 12;
         // long l1 = 87654;
         // long l2 = s1 * l1;
         // System.out.println(l2);
+
+        // Short and char
+        // short s = 12;
+        // char c = 34;
+        // int ch = s + c;
+        // System.out.print(ch);
+
+
+        // int and int 
+        
+        // int and long 
+        
+        //int and long
+        
+        //long float 
+        
+        //float double 
+         
+
+
 
 
 
