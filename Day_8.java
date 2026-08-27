@@ -11,6 +11,7 @@ public class Day_8
     public static void main(String[] args)
     {
         // Demo for byte and byte
+
         // byte a = 10;
         // byte b = 20;
         // byte c = a+b; ---> Wrong, lossy conversion
@@ -18,6 +19,7 @@ public class Day_8
         // System.out.println(c);
 
         // Demo for byte and short 
+
         // byte a = 10;
         // short b = 20;
         // short c = (byte)(a+b);
@@ -46,22 +48,24 @@ public class Day_8
         // System.out.println(l2);
 
         // Short and char
+
         // short s = 12;
         // char c = 34;
         // int ch = s + c;
         // System.out.print(ch);
-
-
-        // int and int 
         
         // int and long 
         
-        //int and long
+        // int f = 32;
+        // long l = 43215;
+        // long lf = f*l;
+        // System.out.print(lf);
+
+        //long and float 
+
         
-        //long float 
+        //float and double 
         
-        //float double 
-         
 
 
 
