@@ -18,12 +18,15 @@ public class Day_8
         // System.out.println(c);
 
         // Demo for byte and short 
-        byte a = 10;
-        short b = 20;
-        short c = (byte)(a+b);
-        System.out.println(c);
+        // byte a = 10;
+        // short b = 20;
+        // short c = (byte)(a+b);
+        // System.out.println(c);
 
         // char and char
-        // 
+        // char a1 = 10;
+        // char b1 = 40;
+        // int c1 = a1 + b1;
+        // System.out.println(c1);
     }
 }
