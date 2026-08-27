@@ -23,10 +23,29 @@ public class Day_8
         // short c = (byte)(a+b);
         // System.out.println(c);
 
-        // char and char
+        // char and int 
         // char a1 = 10;
         // char b1 = 40;
         // int c1 = a1 + b1;
         // System.out.println(c1);
+
+        // int and long 
+
+        // int l1 = 23;
+        // long l2 = 1987123;
+        // // int l3 = l1+l2; --> wrong lossy conversion 
+        // long l4 = l1+l2; // Type Promotion
+        // System.out.println(l4);
+
+        // short adnd long 
+        
+        // short s1 = 12;
+        // long l1 = 87654;
+        // long l2 = s1 * l1;
+        // System.out.println(l2);
+
+
+
+
     }
 }
