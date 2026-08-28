@@ -63,9 +63,21 @@ public class Day_8
 
         //long and float 
 
+        // long l = 54321;
+        // float f = 8.90f;
+        // long fl = l + f;
         
         //float and double 
-        
+
+        // int x = 10;
+        // int y = 20;
+        // int z = x+y;
+        // String str =  new String ("Sum : "+z);  // str = referance variable 
+        // System.out.println(str+z);
+
+        long time = System.currentTimeMillis(); // native method()
+        System.out.println("Cueent Time : "+time);
+
 
 
 
