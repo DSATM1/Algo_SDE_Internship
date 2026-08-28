@@ -30,37 +30,43 @@ public class Day7_Activity
         // float s4 = 5;
         // System.out.println("Floating Division : " + s3/s4);
 
-        // int s1 = 10;
-        // int s2 = 20;
-        // int s3 = 30;
-        // int temp;
+        int s1 = 10;
+        int s2 = 20;
+        int s3 = 30;
+        int s4 = 40;
+        int temp;
 
-        // System.out.println();
-        // System.out.println("Value1 before Swapping : " + s1);
-        // System.out.println();
-        // System.out.println("Value2 before Swapping :  " + s2);
-        // System.out.println();
-        // System.out.println("Value3 before Swapping : " + s3);
+        System.out.println();
+        System.out.println("Value1 before Swapping : " + s1);
+        System.out.println();
+        System.out.println("Value2 before Swapping :  " + s2);
+        System.out.println();
+        System.out.println("Value3 before Swapping : " + s3);
+        System.out.println();
+        System.out.println("Value4 before Swapping : " + s4);
 
-        // // s1 = s1 + s2; 
-        // // s2 = s3 - s2; 
-        // // s3 = s1 - s2; 
+        s1 = s1 + s2; 
+        s2 = s3 - s2; 
+        s3 = s1 - s2; 
+        s4 = s3 - s4;
 
         // temp = s1;
         // s1 = s2;
         // s2 = s3;
         // s3 = temp;
 
-        // System.out.println();
+        System.out.println();
 
-        // System.out.println("After Swapping");
+        System.out.println("After Swapping");
 
-        // System.out.println();
-        // System.out.println("Value1 after Swapping : " + s1);
-        // System.out.println();
-        // System.out.println("Value2 after Swapping :  " + s2);
-        // System.out.println();
-        // System.out.println("Value3 after Swapping : " + s3);
+        System.out.println();
+        System.out.println("Value1 after Swapping : " + s1);
+        System.out.println();
+        System.out.println("Value2 after Swapping :  " + s2);
+        System.out.println();
+        System.out.println("Value3 after Swapping : " + s3);
+        System.out.println();
+        System.out.println("Value4 before Swapping : " + s4);
 
     }
 }
