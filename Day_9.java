@@ -59,7 +59,7 @@ public class Day_9
         System.out.println("Eq 4 : " + (20-5+2));
         System.out.println("Eq 5 : " + (20-(5+2)));
         System.out.println();
-        
+
         --a;
         System.out.println("--a : " + a);
         a--;
@@ -76,7 +76,25 @@ public class Day_9
         System.out.println("++b : " + b);
         b++;
         System.out.println("b++ : " + b);
+        System.out.println();
         
+        System.out.println(a++ + ++a);
+        System.out.println(a++ + ++b);
+        System.out.println();
+
+        System.out.println(20.5/3.5);
+        System.out.println();
+
+
+        double num = 8.1;
+        int inte = (int) num;
+        double f = num - inte;
+        
+
+        System.out.println(Integer.toBinaryString((int) num));
+
+        
+
         
 
     }
