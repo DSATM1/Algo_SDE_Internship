@@ -96,5 +96,43 @@ public class Day_10
         // 2 basic 
         // 2 medium
         // 6 difficult
+
+        // int x = 10;
+        // int y = 6;
+        // int z = x & y ;
+        // System.out.println("AND : " + z);
+
+
+        // int x1 = 10;
+        // int y1 = 6;
+        // int z1 = x1 | y1 ;
+        // System.out.println("OR : " + z1);
+
+        
+        // int x2 = 10;
+        // int y2 = 6;
+        // int z2 = x2 ^ y2 ;
+        // System.out.println("XOR : " + z2);
+
+        
+        // int x3 = 10;
+        // // int y = 6;
+        // int z3 = ~x3 ;
+        // System.out.println("NOT : " + z3);
+
+        
+        // int a = 10;
+        // int b = a << 1;
+        // System.out.println("Left Shift : " + b);
+    
+        // int a1 = 10;
+        // int b1 = a1 << 2;
+        // System.out.println("Left Shift 2 Places : " + b1);
+
+        // int j = -50;
+        // int k = j >>> 1;
+        // System.out.println("Right Shift(Signed) : " + k);
+    
+    
     }
 }
