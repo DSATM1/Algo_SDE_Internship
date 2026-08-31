@@ -6,7 +6,7 @@ public class Day_10
     {
         // Addition of 2 numbers using Scanner Class 
         // Scanner sc = new Scanner(System.in);
-        //int a,b,c;
+        // int a,b,c;
         // System.out.print( "Enter the First Number : ");
         // a = sc.nextInt();
         // System.out.print( "Enter the Second Number : ");
@@ -102,13 +102,12 @@ public class Day_10
         // int z = x & y ;
         // System.out.println("AND : " + z);
 
-
         // int x1 = 10;
         // int y1 = 6;
         // int z1 = x1 | y1 ;
         // System.out.println("OR : " + z1);
 
-        
+
         // int x2 = 10;
         // int y2 = 6;
         // int z2 = x2 ^ y2 ;
