@@ -55,8 +55,17 @@ public class Day_11
         // }
 
         Scanner sc = new Scanner(System.in);
+
+
         System.out.println("Enter Your Age ");
         int age = sc.nextInt();
+        boolean citi = sc.nextBoolean();
+
+        if (age >= 18 && citi)
+        {
+
+        }
+
 
         // String res = (age > 18)? "Yes":"No";
         
