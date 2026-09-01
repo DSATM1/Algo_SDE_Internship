@@ -80,7 +80,24 @@ public class Day11_Activity {
         // {
         //     System.out.println("Negative Number");
         // }
-
         // sc.close();
+
+
+
+        // Scanner sc = new Scanner(System.in);
+        // System.out.print("Enter the Number : ");
+        // int num = sc.nextInt();
+
+        // if ( num % 2 == 0)
+        // {
+        //     System.out.print("Even");
+        // }
+        // else
+        // {
+        //     System.out.print("odd");
+        // }
+        // sc.close();
+
+
     }
 }
