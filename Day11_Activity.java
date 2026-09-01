@@ -99,5 +99,19 @@ public class Day11_Activity {
         // sc.close();
 
 
+
+        // Scanner sc = new Scanner(System.in);
+        // System.out.print("Enter the Character : ");
+        // String ch = sc.next();
+
+        // if (ch.equalsIgnoreCase("A"))
+        // {
+        //     System.out.println("Upper Case");
+        // }
+        // else
+        // {
+        //     System.out.println("Lower Case");
+        // }
+        // sc.close();
     }
 }
