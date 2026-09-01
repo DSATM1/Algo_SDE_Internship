@@ -54,6 +54,28 @@ public class Day_11
         //     System.out.println("Not Eligible to vote");
         // }
 
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter Your Age ");
+        int age = sc.nextInt();
+
+        // String res = (age > 18)? "Yes":"No";
+        
+        // switch(res)
+        // {
+        //     case  "Yes" : System.out.println("Eligible");
+        //     break;
+
+        //     case "No" : System.out.println("Not Eligible");
+        //     break;
+
+        //     default : System.out.println("Please grow Up");
+        //     sc.close();
+                
+        // }
+
+
+
+
         // Scanner sc = new Scanner(System.in);
         // System.out.println("Enter Day Number (1 - 7) : ");
         // int day = sc.nextInt();
