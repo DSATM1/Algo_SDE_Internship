@@ -155,6 +155,25 @@ public class Day11_Activity {
 
 
 
+        // Scanner sc = new Scanner (System.in);
+        // System.out.print("Enter value of num 1 : ");
+        // int a = sc.nextInt();
         
+        // System.out.print("Enter value of num 2 : ");
+        // int b = sc.nextInt();
+        
+        // if (a > b)
+        // {
+        //     System.out.println(a + " is greater ");
+        // }
+        // else if (b > a)
+        // {
+        //     System.out.println(b + " is greater");
+        // }
+        // else
+        // {
+        //     System.out.println("Both are equal");
+        // }
+        // sc.close();
     }
 }
