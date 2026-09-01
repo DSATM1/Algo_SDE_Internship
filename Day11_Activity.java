@@ -200,5 +200,33 @@ public class Day11_Activity {
         //     System.out.println(" All are equal");
         // }
         // sc.close();
+
+
+
+        // Scanner sc = new Scanner(System.in);
+        // System.out.print("Enter the Age : ");
+        // int age = sc.nextInt();
+
+        // if (age >= 0 && age <= 8)
+        // {
+        //     System.out.println("Still you are a child");
+        // }
+        // else if (age >= 9 && age <= 17)
+        // {
+        //     System.out.println("Teenager");
+        // }
+        // else if (age >= 18 && age <= 59)
+        // {
+        //     System.out.println("Adults");
+        // }
+        // else if (age >= 60 && age <= 100)
+        // {
+        //     System.out.println("Seniour Citizen");
+        // }
+        // else
+        // {
+        //     System.out.println("Invalid age");
+        // }
+        // sc.close();
     }
 }
