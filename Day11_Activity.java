@@ -41,8 +41,26 @@ public class Day11_Activity {
 
         // sc.close();
 
-
-
+        Scanner sc = new Scanner(System.in);
         
+        System.out.println("<<<---- Login In To Your Account ---->>>");
+        
+        System.out.println();
+
+        System.out.print("Enter Your Name : ");
+        String name = sc.next();
+        
+        System.out.print("Enter the Password : ");
+        String pwd = sc.next();
+
+        if (name.equals("Suraj") && pwd.equals("1234"))
+        {
+            System.out.println("Successfully Logged In.");
+        }
+        else
+        {
+            System.out.println("Retry Again");
+        }
+        sc.close();
     }
 }
