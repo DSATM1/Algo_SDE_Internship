@@ -228,5 +228,24 @@ public class Day11_Activity {
         //     System.out.println("Invalid age");
         // }
         // sc.close();
+
+
+
+        // Scanner sc = new Scanner(System.in);
+        // System.out.print("Enter the Obtained Marks : ");
+        // int marks = sc.nextInt();
+
+        // System.out.print("Enter the Anual family Income  : ");
+        // double income = sc.nextDouble();
+
+        // if (marks >= 90 && income <= 50000)
+        // {
+        //     System.out.println("You are eligible");
+        // }
+        // else
+        // {
+        //     System.out.println("Not eligible");
+        // }
+        // sc.close();
     }
 }
