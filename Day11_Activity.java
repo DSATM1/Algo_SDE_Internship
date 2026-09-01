@@ -113,5 +113,48 @@ public class Day11_Activity {
         //     System.out.println("Lower Case");
         // }
         // sc.close();
+
+
+
+        // Scanner sc = new Scanner(System.in);
+        // System.out.print("Enter the First Number : ");
+        // int n1 = sc.nextInt();
+        
+        // System.out.print("Enter the Second Number : ");
+        // int n2 = sc.nextInt();
+
+        // System.out.println(" 1. Addition       (+) " );
+        // System.out.println(" 2. Substraction   (-) " );
+        // System.out.println(" 3. Multiplication (*) " );
+        // System.out.println(" 4. Division       (/) " );
+        // System.out.println(" 5. Modulo         (%) " );
+
+        // System.out.print("Enter your choice : ");
+        // int choice = sc.nextInt();
+
+        // switch(choice)
+        // {
+        //     case 1 : System.out.println("Addition of " + n1 + " and " + n2 + " is " + (n1+n2));
+        //     break;
+
+        //     case 2 : System.out.println("Substraction of " + n1 + " and " + n2 + " is " + (n1-n2));
+        //     break;
+
+        //     case 3 : System.out.println("Multiplication of " + n1 + " and " + n2 + " is " + (n1*n2));
+        //     break;
+
+        //     case 4 : System.out.println("Division of " + n1 + " and " + n2 + " is " + (n1/n2));
+        //     break;
+
+        //     case 5 : System.out.println("Modulo of " + n1 + " and " + n2 + " is " + (n1%n2));
+        //     break;
+
+        //     default : System.out.println("Invalid choice");
+        // }
+        // sc.close();
+
+
+
+        
     }
 }
