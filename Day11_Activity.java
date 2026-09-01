@@ -27,6 +27,22 @@ public class Day11_Activity {
         // }
         // sc.close();
 
+        // Scanner sc = new Scanner(System.in);
+        // System.out.print("Enter the Day : ");
+        // String day = sc.next();
+        // if (day.equalsIgnoreCase("Saturday") || day.equalsIgnoreCase("Sunday"))
+        // {
+        //     System.out.println("Holiday");
+        // }
+        // else
+        // {
+        //     System.out.println("Working Day");
+        // }
+
+        // sc.close();
+
+
+
         
     }
 }
