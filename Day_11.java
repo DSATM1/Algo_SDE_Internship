@@ -19,11 +19,11 @@ public class Day_11
 
         // System.out.print("Enter Your Age : ");
         // int age = sc.nextInt();
-        // if (age == 18)
+        // if (age >= 18)
         // {
         //     System.out.println("Eligible to vote");
         // }
-        // else if (age > 0 && age < 18)
+        // else if (age > 10 && age < 18)
         // {
         //     System.out.println("Not Eligible");
         // }
@@ -54,17 +54,17 @@ public class Day_11
         //     System.out.println("Not Eligible to vote");
         // }
 
-        Scanner sc = new Scanner(System.in);
+        // Scanner sc = new Scanner(System.in);
 
 
-        System.out.println("Enter Your Age ");
-        int age = sc.nextInt();
-        boolean citi = sc.nextBoolean();
+        // System.out.println("Enter Your Age ");
+        // int age = sc.nextInt();
+        // boolean citi = sc.nextBoolean();
 
-        if (age >= 18 && citi)
-        {
+        // if (age >= 18 && citi)
+        // {
 
-        }
+        // }
 
 
         // String res = (age > 18)? "Yes":"No";
@@ -113,7 +113,8 @@ public class Day_11
         //     break;
 
         //     default : System.out.println("Invalid Number");
+
         // }
-        
+        // sc.close();        
     }
 }
