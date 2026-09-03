@@ -12,5 +12,10 @@ public class Day13_Activity {
         //     // Dec by 5 steps 
         //     System.out.println(i);
         // }
+
+        // for (char c = 'Z'; c >='A'; c--)
+        // {
+        //     System.out.print(" " + c);
+        // }
     }
 }
