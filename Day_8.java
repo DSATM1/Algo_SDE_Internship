@@ -77,12 +77,5 @@ public class Day_8
 
         long time = System.currentTimeMillis(); // native method()
         System.out.println("Cueent Time : "+time);
-
-
-
-
-
-
-
     }
 }

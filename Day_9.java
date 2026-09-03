@@ -92,10 +92,5 @@ public class Day_9
         
 
         System.out.println(Integer.toBinaryString((int) num));
-
-        
-
-        
-
     }
 }
