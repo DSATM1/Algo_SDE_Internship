@@ -1,4 +1,5 @@
-public class Day13_Activity {
+public class Day13_Activity 
+{
     public static void main(String [] args)
     {
         // // Inc by 3 steps 
@@ -16,6 +17,12 @@ public class Day13_Activity {
         // for (char c = 'Z'; c >='A'; c--)
         // {
         //     System.out.print(" " + c);
+        // }
+
+        // for (int i = 1; i <= 100; i++)
+        // {
+        //     // 1 - 100 numbers 
+        //     System.out.println(i);
         // }
     }
 }
