@@ -44,12 +44,25 @@ public class Day_13 {
 
         // for ( ; ;)
         //     {
+        //infinite loop mahesh sir question 
         //         System.out.println();
         //     } 
 
         // for (int i = 1; i <= 10; i+=2)
         // { 
         //     // odd 
+        //     System.out.println(i);
+        // }
+
+        // for (int i = 10; i>= 1; i--)
+        // {
+        //     //decremet
+        //     System.out.println(i);
+        // }
+
+        // for (int i = 10; i>= 1; i-=2)
+        // {   
+        //     // Step backword by 2 
         //     System.out.println(i);
         // }
 
