@@ -66,7 +66,11 @@ public class Day_13 {
         //     System.out.println(i);
         // }
 
-
-
+        int sum = 0;
+        for (int i = 1; i<=10; i++)
+        {   
+            sum+=i;
+        }
+        System.out.println("Sum of first n numbers is : " + (sum));
     }
 }
