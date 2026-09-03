@@ -42,6 +42,13 @@ public class Day13_Activity
         // {
         //     System.out.println(" Cube of " + i + " is " + (i*i*i));
         // }
+
+        // int sum = 0 ;
+        // for (int i = 1; i<=10; i++)
+        // {
+        //     sum += i;
+        // }
+        // System.out.println(" Sum of First N (1-10) natural numbers " + sum);
         
     }
 }
