@@ -1,4 +1,4 @@
-public class Day_13 {
+public class Day13 {
     public static void main(String [] args)
     {
         // System.out.println("Scenario 1 : Both Strings Literals");
@@ -76,3 +76,4 @@ public class Day_13 {
         
     }
 }
+
