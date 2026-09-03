@@ -32,6 +32,11 @@ public class Day13_Activity
         // //System.out.println(p);
         // System.out.println(num + " X " + i + " = " +num*i); // doing direct    
         // }
+
+        // for (int i = 1; i<= 10; i++ )
+        // {
+        //     System.out.println(" Square of " + i + " is " + (i*i));
+        // }
         
     }
 }
