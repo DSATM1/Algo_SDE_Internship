@@ -6,5 +6,11 @@ public class Day13_Activity {
         // {
         //     System.out.println(index);
         // }
+
+        // for (int i = 50; i>=1; i-=5)
+        // {
+        //     // Dec by 5 steps 
+        //     System.out.println(i);
+        // }
     }
 }
