@@ -24,5 +24,14 @@ public class Day13_Activity
         //     // 1 - 100 numbers 
         //     System.out.println(i);
         // }
+
+        // int num = 5;
+        // for (int i = 1; i <= 10; i++)
+        // {
+        // //int  p = num*i; --> using a variable
+        // //System.out.println(p);
+        // System.out.println(num + " X " + i + " = " +num*i); // doing direct    
+        // }
+        
     }
 }
