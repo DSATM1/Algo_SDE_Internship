@@ -5,8 +5,8 @@ public class Day_14
     public static void main(String [] args)
     {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter the Number for Multiplication Table");
-        int multi = sc.nextInt();
+        // System.out.print("Enter the Number for Multiplication Table");
+        // int multi = sc.nextInt();
 
         // for (int index= 1;index<=10;index++)
         // {
@@ -37,8 +37,25 @@ public class Day_14
 
         // for (int i = start; i<= end; i++)
         // {
-        //     System.out.print(" " + i*2);
+        //     System.out.print(" " + i*i);
         // }
+
+
+        // int i = start;
+
+        // while(i<=end)
+        //     {
+        //         System.out.print(" " + i*i);
+        //         i++;
+        //     } 
+
+        // do
+        // {
+        //     System.out.print(" " + i*i);
+        //     i++;
+        // }while(i<=end);
+
+        
 
 
 
