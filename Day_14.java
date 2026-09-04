@@ -12,6 +12,52 @@ public class Day_14
         // {
         //     System.out.println(multi + " X " + index + " = " + (multi*index));
         // }
-        // sc.close();
+        
+        // System.out.print("Enter the Start number : ");
+        // int start = sc.nextInt();
+
+        // System.out.print("Enter the End number : ");
+        // int end = sc.nextInt();
+
+        // for (int i = start; i<= end; i++)
+        // {
+        //     System.out.print(" " + i*2);
+        // }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        sc.close();
     }
 }
