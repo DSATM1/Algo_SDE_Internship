@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Day14_Activity {
     public static void main(String [] args)
     {
-                Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter the Number");
         String num=sc.next(); // "127" --> word
@@ -20,14 +20,14 @@ public class Day14_Activity {
             }
             
         }
-            if(octal)
-            {
-                System.out.println("Yes radix = 8");
-            }
-            else
-            {
-                System.out.println("Not an octal");
-            }
+        if(octal)
+        {
+            System.out.println("Yes radix = 8");
+        }
+        else
+        {
+            System.out.println("Not an octal");
+        }
         sc.close();
     }
 }
