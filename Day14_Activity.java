@@ -30,9 +30,23 @@ public class Day14_Activity {
         // }
         // sc.close();
 
-                // for (int i = 64; i >=1 ; )
+        // ------>>> Dec by half i/2 <<<<-------
+
+        // for (int i = 128; i >=1 ; )
         // {
-        //     System.out.println(i/=2);
+        //     System.out.print( " " + (i/=2));
         // }
+
+        // int i = 128;
+        // while (i>=1)
+        // {
+        //     System.out.print(" " + (i/=2));
+        // }
+
+        // int i = 128;
+        // do 
+        // {
+        //     System.out.print(" " + (i/=2));
+        // } while(i>=1);
     }
 }
