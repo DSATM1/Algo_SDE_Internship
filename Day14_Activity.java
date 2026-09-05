@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Day14_Activity {
     public static void main(String [] args)
     {
-        Scanner sc = new Scanner(System.in);
+        // Scanner sc = new Scanner(System.in);
 
         // System.out.print("Enter the Number");
         // String num=sc.next(); // "127" --> word
@@ -48,5 +48,26 @@ public class Day14_Activity {
         // {
         //     System.out.print(" " + (i/=2));
         // } while(i>=1);
+
+        // for (int i = 100; i>=10; i-=10)
+        // {
+        //     System.out.print(" " + i);
+        // }
+
+
+        // for (int i = 1; i<=1000; i*=10)
+        // {
+        //     System.out.print(" " + i);
+        // }
+
+
+        // int fact = 5;
+        // int res = 1 ;
+        // for (int i = 1; i<=fact; i++)
+        // {
+        //     res = res*i;    
+
+        // }
+        // System.out.println(res);
     }
 }
