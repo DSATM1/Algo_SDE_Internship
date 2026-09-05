@@ -19,7 +19,6 @@ public class Day_14
         //         octal = false;
         //         break;
         //     }
-            
         // }
         //     if(octal)
         //     {
@@ -30,6 +29,7 @@ public class Day_14
         //         System.out.println("Not an octal");
         //     }
         
+        // ------------- >>>>>> Multiplication Table <<<<<<< -----------
 
         // System.out.print("Enter the Number for Multiplication Table");
         // int multi = sc.nextInt();
@@ -45,7 +45,7 @@ public class Day_14
         //     System.out.println(multi + " X " + i + " = " + (multi*i));
         //     i++;
         // }
-
+        
         // int i =1;
         // do
         // {
@@ -53,7 +53,7 @@ public class Day_14
         //     i++;
         // }while(i<=10);
 
-
+        //------- >>>>>> Power of 2 <<<<<< --------------
 
         // System.out.print("Enter the Start number : ");
         // int start = sc.nextInt();
@@ -67,7 +67,6 @@ public class Day_14
         // }
 
         // int i = start;
-
         // while(i<=end)
         //     {
         //         System.out.print(" " + i*i);
