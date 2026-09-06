@@ -49,10 +49,27 @@ public class Day14_Activity {
         //     System.out.print(" " + (i/=2));
         // } while(i>=1);
 
+
+        // ------>>>>> 100,90,80,70,,,,10 <<<<<--------
+
         // for (int i = 100; i>=10; i-=10)
         // {
         //     System.out.print(" " + i);
         // }
+
+        // int i = 100;
+        // while (i>=10)
+        // {
+        //     System.out.print(" " + i);
+        //     i-=10;
+        // }
+
+        // int i = 100;
+        // do
+        // {
+        //     System.out.print(" " + i);
+        //     i-=10;
+        // }while(i>=10);
 
 
         // for (int i = 1; i<=1000; i*=10)
