@@ -72,10 +72,25 @@ public class Day14_Activity {
         // }while(i>=10);
 
 
+        // ---->>> multiple of 10 <<<<-----
         // for (int i = 1; i<=1000; i*=10)
         // {
         //     System.out.print(" " + i);
         // }
+
+        // int i = 1;
+        // while (i<=1000)
+        // {
+        //     System.out.print(" " + i);
+        //     i*=10;
+        // }
+
+        // int i = 1;
+        // do
+        // {
+        //     System.out.print(" " + i);
+        //     i*=10;
+        // }while(i<=1000);
 
 
         // int fact = 5;
