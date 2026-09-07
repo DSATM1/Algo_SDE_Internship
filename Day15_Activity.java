@@ -5,8 +5,8 @@ public class Day15_Activity {
     {
 
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter the number : ");
-        int num = sc.nextInt();
+        // System.out.print("Enter the number : ");
+        // int num = sc.nextInt();
 
         // // Reverse a number 
         // long rev = 0;
@@ -53,6 +53,7 @@ public class Day15_Activity {
         //         break;
         //     System.out.println(i);
         // }
+
 
         sc.close();
     }
