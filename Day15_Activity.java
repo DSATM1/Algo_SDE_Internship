@@ -18,15 +18,15 @@ public class Day15_Activity {
         // }
         // System.out.println(rev);
 
-        using for loop ---->>>>>>
-        int rev = 0;
-        for (int i = rev; )
-        {
-            int digit = n % 10;
-            n = n/ 10;
-            rev = rev * 10 + digit;
-        }
-        System.out.println(rev);
+        // using for loop ---->>>>>>
+        // int rev = 0;
+        // for (int i = rev; )
+        // {
+        //     int digit = n % 10;
+        //     n = n/ 10;
+        //     rev = rev * 10 + digit;
+        // }
+        // System.out.println(rev);
 
         palindrome 
         int temp = num;
