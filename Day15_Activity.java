@@ -8,15 +8,15 @@ public class Day15_Activity {
         System.out.print("Enter the number : ");
         int num = sc.nextInt();
 
-        // Reverse a number 
-        long rev = 0;
-        while(n > 0)
-        {
-            long digit = n % 10;
-            n = n / 10;
-            rev = rev * 10 + digit;
-        }
-        System.out.println(rev);
+        // // Reverse a number 
+        // long rev = 0;
+        // while(n > 0)
+        // {
+        //     long digit = n % 10;
+        //     n = n / 10;
+        //     rev = rev * 10 + digit;
+        // }
+        // System.out.println(rev);
 
         using for loop ---->>>>>>
         int rev = 0;
