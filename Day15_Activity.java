@@ -28,23 +28,23 @@ public class Day15_Activity {
         // }
         // System.out.println(rev);
 
-        palindrome 
-        int temp = num;
-        int rev = 0;
-        while (num > 0 )
-        {
-            int digit = num % 10;
-            rev = rev * 10 + digit;
-            num = num / 10; //0 == 121 ---> fail 
-        }
-        if (temp == rev)
-        {
-            System.out.println("Is Palindrome");
-        }
-        else
-        {
-            System.out.println("Is Not Palindrome");
-        }
+        // palindrome 
+        // int temp = num;
+        // int rev = 0;
+        // while (num > 0 )
+        // {
+        //     int digit = num % 10;
+        //     rev = rev * 10 + digit;
+        //     num = num / 10; //0 == 121 ---> fail 
+        // }
+        // if (temp == rev)
+        // {
+        //     System.out.println("Is Palindrome");
+        // }
+        // else
+        // {
+        //     System.out.println("Is Not Palindrome");
+        // }
 
         for (int i= 1; i<=10; i++)
         {
