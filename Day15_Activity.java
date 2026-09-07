@@ -64,7 +64,15 @@ public class Day15_Activity {
         //         System.out.print(" " + i);
         // }
 
-
+        // // Until get 7
+        // for (int i = 1; i<=10; i++)
+        // {
+        //     if (i == 7)
+        //     {
+        //         break;
+        //     }
+        //     System.out.print(" " +i);
+        // }
         sc.close();
     }
 }
