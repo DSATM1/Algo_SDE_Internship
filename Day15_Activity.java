@@ -54,6 +54,16 @@ public class Day15_Activity {
         //     System.out.println(i);
         // }
 
+        // Alphabet Break
+        // for (char i = 'A'; i<= 'Z'; i++)
+        // {
+        //     if (i == 'M')
+        //     {
+        //         break;
+        //     }
+        //         System.out.print(" " + i);
+        // }
+
 
         sc.close();
     }
