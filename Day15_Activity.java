@@ -46,12 +46,13 @@ public class Day15_Activity {
         //     System.out.println("Is Not Palindrome");
         // }
 
-        for (int i= 1; i<=10; i++)
-        {
-            if(i == 5)
-                break;
-            System.out.println(i);
-        }
+        // Break at 5
+        // for (int i= 1; i<=10; i++)
+        // {
+        //     if(i == 5)
+        //         break;
+        //     System.out.println(i);
+        // }
 
         sc.close();
     }
