@@ -76,6 +76,6 @@ public class Day_15
         //     System.out.println( "  ");
         // }
 
-       sc.close();
+        sc.close();
     }
 }
