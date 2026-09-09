@@ -21,25 +21,25 @@ public class Day_17
 
 
     // No args No Return 
-    // static void greet()
+    // void greet()
     // {
     //     System.out.println("Hiiii"); 
     // }
 
     // // Args but No return  
-    // static void Sum(int a, int b)
+    // void Sum(int a, int b)
     // {
     //     System.out.println("Sum = " + (a+b));
     // }
 
     // // No args But return 
-    // static int getNum()
+    // int getNum()
     // {
     //     return 100;
     // }
 
     // // Args and Return 
-    // static int max(int x,int  y) 
+    // int max(int x,int  y) 
     // {
     //     if (x > y)
     //     {
@@ -59,6 +59,7 @@ public class Day_17
         // System.out.println(c);
         //System.out.println(x) // a is not in this method that's why it showing Error
 
+        //ObjectForEach obj1 = new ObjectForEach();
         // // 1
         // greet();
 
@@ -72,5 +73,6 @@ public class Day_17
         // // 4
         // int larg = max(25, 40); // to catch the return value 
         // System.out.println(larg);
+
     }
 }
