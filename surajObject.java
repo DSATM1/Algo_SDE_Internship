@@ -36,7 +36,7 @@ public class surajObject
     // }
 
     // Even or Odd
-    static String evenodd(int x)
+    String evenodd(int x)
     {
         if ( x % 2 == 0)
         {
@@ -52,10 +52,12 @@ public class surajObject
     public static void main(String [] args)
     {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter a number to find Even or Odd");
+        System.out.print("Enter a number to find Even or Odd : ");
         int x = sc.nextInt();
 
-        String s = evenodd(x);
+        surajObject sp = new surajObject();
+
+        String s = sp.evenodd(x);
         System.out.println("Number is " + s);
 
 
