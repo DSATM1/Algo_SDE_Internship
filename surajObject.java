@@ -30,7 +30,7 @@ public class surajObject
     // }
 
     // Square of Numbers 
-    static int Square(int a)
+    int Square(int a)
     {
         return a*a;
     }
@@ -41,8 +41,11 @@ public class surajObject
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the Number for Square: ");
         int a = sc.nextInt();
+
         
-        int s = Square(a);
+        surajObject sp = new surajObject();
+        
+        int s = sp.Square(a);
         System.out.print("Square of " + a + " is " + s);
 
 
