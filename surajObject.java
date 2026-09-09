@@ -1,22 +1,22 @@
 public class surajObject
 //class Suraj 
 {
-    static void Hello()
-    {
-        System.out.println("Good Eve Suraj S P");
-    }
+    // static void Hello()
+    // {
+    //     System.out.println("Good Eve Suraj S P");
+    // }
 
-    static int New_Num(int x , int y)
-    {
-        if (x < y)
-        {
-            return x;
-        }
-        else
-        {
-            return y;
-        }
-    }
+    // static int New_Num(int x , int y)
+    // {
+    //     if (x < y)
+    //     {
+    //         return x;
+    //     }
+    //     else
+    //     {
+    //         return y;
+    //     }
+    // }
     public static void main(String [] args)
     {
         // surajObject sp = new surajObject();
