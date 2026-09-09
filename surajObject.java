@@ -4,13 +4,13 @@ public class surajObject
 
 //class Suraj 
 {
-    // Greetings 
+    // Greetings -----11111 
     // static void Hello()
     // {
     //     System.out.println("Good Eve Suraj S P");
     // }
 
-    // Smaller Number 
+    // Smaller Number  ------222222
     // static int New_Num(int x , int y)
     // {
     //     if (x < y)
@@ -23,30 +23,40 @@ public class surajObject
     //     }
     // }
 
-    // Addition
+    // Addition ---------33333333
     // int add(int x, int y)
     // {
     //     return (x+y);
     // }
 
-    // Square of Numbers 
-    int Square(int a)
+    // Square of Numbers  -------44444444
+    // int Square(int a)
+    // {
+    //     return a*a;
+    // }
+
+    // Even or Odd
+    static String evenodd(int x)
     {
-        return a*a;
+        if ( x % 2 == 0)
+        {
+            return "Even";
+        }
+        else
+        {
+            return "Odd";
+        }
     }
 
 
     public static void main(String [] args)
     {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter the Number for Square: ");
-        int a = sc.nextInt();
+        System.out.println("Enter a number to find Even or Odd");
+        int x = sc.nextInt();
 
-        
-        surajObject sp = new surajObject();
-        
-        int s = sp.Square(a);
-        System.out.print("Square of " + a + " is " + s);
+        String s = evenodd(x);
+        System.out.println("Number is " + s);
 
 
 
@@ -81,6 +91,39 @@ public class surajObject
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        // Hello(); // -------------111111
+
+
+
+        // sp.Hello(); ------- 1111oooooo
+        // int n = sp.New_Num(10, 1);
+        // System.out.println(n);
+
+
+
+        //int n = New_Num(5, 10); // -------------22222
+        //System.out.println(n);
 
 
 
@@ -88,20 +131,19 @@ public class surajObject
         // int x = sc.nextInt();
         // System.out.print("Enter 2nd Number : ");
         // int y = sc.nextInt();
-
         // surajObject sp = new surajObject();
-
         // int a = sp.add(x, y);
         // System.out.println("Addition of " + x + " and " + y + " is " + a);
 
-        // sp.Hello(); ------- 1111oooooo
-        // int n = sp.New_Num(10, 1);
-        // System.out.println(n);
 
-        //Hello(); // -------------111111
 
-        //int n = New_Num(5, 10); // -------------22222
-        //System.out.println(n);
+        // System.out.print("Enter the Number for Square: "); // -----444444
+        // int a = sc.nextInt();
+        // surajObject sp = new surajObject();
+        // int s = sp.Square(a);
+        // System.out.print("Square of " + a + " is " + s);
+
+
         sc.close();
     }
 }
