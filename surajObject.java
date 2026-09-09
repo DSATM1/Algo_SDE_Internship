@@ -1,4 +1,4 @@
-// import java.util.*;
+import java.util.*;
 
 public class surajObject
 
@@ -24,26 +24,25 @@ public class surajObject
     // }
 
     // Addition
-    static void add(int x, int y)
+    int add(int x, int y)
     {
-        System.out.println("Addition of " + x + " and " + y + " is " + (x+y));
+        return (x+y);
     }
 
 
     public static void main(String [] args)
     {
-        // Scanner sc = new Scanner(System.in);
-        // System.out.print("Enter 1st Number : ");
-        // int x = sc.nextInt();
-        // System.out.print("Enter 2nd Number : ");
-        // int y = sc.nextInt();
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter 1st Number : ");
+        int x = sc.nextInt();
+        System.out.print("Enter 2nd Number : ");
+        int y = sc.nextInt();
 
-        // surajObject sp = new surajObject();
+        surajObject sp = new surajObject();
 
-        // int a = sp.add(8, 9);
-        // System.out.println(a);
+        int a = sp.add(x, y);
+        System.out.println("Addition of " + x + " and " + y + " is " + a);
 
-        add(10,20);
 
 
 
@@ -87,6 +86,6 @@ public class surajObject
 
 
 
-        //sc.close();
+        sc.close();
     }
 }
