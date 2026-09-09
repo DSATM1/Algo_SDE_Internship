@@ -35,85 +35,110 @@ public class surajObject
     //     return a*a;
     // }
 
-    // Even or Odd
-    String evenodd(int x)
+    // Even or Odd --------5555555555
+    // String evenodd(int x)
+    // {
+    //     if ( x % 2 == 0)
+    //     {
+    //         return "Even";
+    //     }
+    //     else
+    //     {
+    //         return "Odd";
+    //     }
+    // }
+
+    // Max of 3 numbers 
+
+    int max3(int a, int b, int c)
     {
-        if ( x % 2 == 0)
+        if ( a > b && a > c)
         {
-            return "Even";
+            return a;
+        } 
+        else if (b > a && b > c)
+        {
+            return b;
+            
         }
         else
         {
-            return "Odd";
+            return c;
         }
     }
-
-
     public static void main(String [] args)
     {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter a number to find Even or Odd : ");
-        int x = sc.nextInt();
+        System.out.print("Enter number A :");
+        int a = sc.nextInt();
+        System.out.print("Enter number B :");
+        int b = sc.nextInt();
+        System.out.print("Enter number C :");
+        int c = sc.nextInt();
 
-        surajObject sp = new surajObject();
-
-        String s = sp.evenodd(x);
-        System.out.println("Number is " + s);
-
-
-
-
-
+        surajObject big = new surajObject();
+        int n = big.max3(a, b, c);
+        System.out.println(n);
 
 
 
 
 
+        
+        
+        
+        
+
+        
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
 
 
+        
+        
+        
+        
+        
+        
+
+        
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        
+        
+        
+        
+        
+        
+        
+        
         // Hello(); // -------------111111
 
 
@@ -144,6 +169,15 @@ public class surajObject
         // surajObject sp = new surajObject();
         // int s = sp.Square(a);
         // System.out.print("Square of " + a + " is " + s);
+
+
+
+        // System.out.print("Enter a number to find Even or Odd : "); ----- 5555555
+        // int x = sc.nextInt();
+        // surajObject sp = new surajObject();
+        // String s = sp.evenodd(x);
+        // System.out.println("Number is " + s);
+
 
 
         sc.close();
