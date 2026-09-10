@@ -50,35 +50,35 @@ public class surajObject
 
     // Max of 3 numbers 
 
-    int max3(int a, int b, int c)
-    {
-        if ( a > b && a > c)
-        {
-            return a;
-        } 
-        else if (b > a && b > c)
-        {
-            return b;
+    // int max3(int a, int b, int c)
+    // {
+    //     if ( a > b && a > c)
+    //     {
+    //         return a;
+    //     } 
+    //     else if (b > a && b > c)
+    //     {
+    //         return b;
             
-        }
-        else
-        {
-            return c;
-        }
-    }
+    //     }
+    //     else
+    //     {
+    //         return c;
+    //     }
+    // }
     public static void main(String [] args)
     {
-        Scanner sc = new Scanner(System.in);
-        System.out.print("Enter number A :");
-        int a = sc.nextInt();
-        System.out.print("Enter number B :");
-        int b = sc.nextInt();
-        System.out.print("Enter number C :");
-        int c = sc.nextInt();
+        // Scanner sc = new Scanner(System.in);
+        // System.out.print("Enter number A :");
+        // int a = sc.nextInt();
+        // System.out.print("Enter number B :");
+        // int b = sc.nextInt();
+        // System.out.print("Enter number C :");
+        // int c = sc.nextInt();
 
-        surajObject big = new surajObject();
-        int n = big.max3(a, b, c);
-        System.out.println(n);
+        // surajObject big = new surajObject();
+        // int n = big.max3(a, b, c);
+        // System.out.println(n);
 
 
 
