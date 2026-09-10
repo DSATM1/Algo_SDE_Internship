@@ -1,4 +1,4 @@
-import java.util.*;
+// import java.util.*;
 
 public class surajObject
 
@@ -82,63 +82,29 @@ public class surajObject
 
 
 
+        for (int i = 1; i<= 5; i++)  // rows 
+            {
+                for (int j = 4; j <= 5-i; j++) // space
+                {
+                    for (int k = 1; k <= 2*i-1; k++) // star 
+                    {
+                        System.out.print("* ");
+                    }
+                }
+                System.out.println();
+            }
 
 
-        
-        
-        
-        
-
-        
-        
-        
-        
-
-        
-        
-        
-        
-        
+        // for (int i = 1; i<= 5; i++)
+        // {
+        //     for (int j = 1; j<=5;j++)
+        //     {
+        //         System.out.print("* ");
+        //     }
+        //     System.out.println();
+        // }
         
 
-        
-        
-        
-        
-        
-        
-
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-
-
-        
-        
-        
-        
-        
-        
-
-        
-
-
-        
-        
-        
-        
-        
-        
-        
-        
         // Hello(); // -------------111111
 
 
@@ -180,6 +146,6 @@ public class surajObject
 
 
 
-        sc.close();
+        //sc.close();
     }
 }
