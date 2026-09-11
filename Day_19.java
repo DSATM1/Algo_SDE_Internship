@@ -49,6 +49,11 @@ public class Day_19
     //     int a[] = {10,20,30,40};
     //     return a;
     // }
+
+    // static String welcome(String name)
+    // {
+    //     return ("Hello " + name);
+    // }
     public static void main(String [] args)
     {
         // Day_19 s = new Day_19();
@@ -83,6 +88,9 @@ public class Day_19
         // }
         // System.out.println(b[0] + " " + b[1] + " " + b[2] + " " + b[3] + " " );  
 
+        // String name = "Suraj S P";
+        // String s = welcome(name);
+        // System.out.println(s);
 
     }
 }
