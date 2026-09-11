@@ -54,6 +54,49 @@ public class Day_19
     // {
     //     return ("Hello " + name);
     // }
+
+    // int max(byte x, byte y) // widening 
+    // // int max(int x, int y) 
+    // {
+    //     if (x > y)
+    //     {
+    //         return x;
+    //     }
+    //     else
+    //     {
+    //         return y;
+    //     }
+    // }
+
+    // float max(float x, float y)
+    // {
+    //     if (x > y)
+    //     {
+    //         return x;
+    //     }
+    //     else
+    //     {
+    //         return y;
+    //     }
+    // }
+
+    // // max of 3 num 
+    // int max(int x , int y, int z)
+    // {
+    //     if ( x > y && x >= z)
+    //     {
+    //         return x;
+    //     } 
+    //     else if (y > z && y >= z)
+    //     {
+    //         return y;
+    //     }
+    //     else
+    //     {
+    //         return z;
+    //     }
+    // }
+    
     public static void main(String [] args)
     {
         // Day_19 s = new Day_19();
@@ -91,6 +134,9 @@ public class Day_19
         // String name = "Suraj S P";
         // String s = welcome(name);
         // System.out.println(s);
+
+        // Day_19 obj = new Day_19();
+        // System.out.println(obj.max(10, 20, 30));
 
     }
 }
