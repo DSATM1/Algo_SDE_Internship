@@ -1,5 +1,5 @@
-public class Day_19 
-{
+// public class Day_19 
+// {
     // static void swaroop()
     // {
     //     System.out.println("Hi Soop");
@@ -97,8 +97,8 @@ public class Day_19
     //     }
     // }
     
-    public static void main(String [] args)
-    {
+    //void main()// public static void main(String [] args)
+    //{
         // Day_19 s = new Day_19();
         // s.swaroop();
         // s.suraj();
@@ -138,5 +138,11 @@ public class Day_19
         // Day_19 obj = new Day_19();
         // System.out.println(obj.max(10, 20, 30));
 
-    }
-}
+        // System.out.println("Hekkkklkdcskhbvskv lsjcbksdcnsdjkbhc");
+
+        // char alpha;
+
+
+       // }
+    
+// }
