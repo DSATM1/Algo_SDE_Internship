@@ -41,5 +41,22 @@ public class Day19_Activity
         //     System.out.println("Not a Senior Citizen");
         // }
         // sc.close();
+
+        // 2. Student Pass/Fail
+
+        // Scanner sc = new Scanner (System.in);
+        // System.out.print("Enter Your Marks : ");
+        // byte marks = sc.nextByte();
+        // if(marks >= 35 && marks <= 100 )
+        // {
+        //     System.out.println("Pass");
+        // }
+        // else
+        // {
+        //     System.out.println("Fail");
+        // }
+        // sc.close();
+
+        
     }
 }
