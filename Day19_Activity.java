@@ -74,6 +74,23 @@ public class Day19_Activity
         // }
         // sc.close();
 
+        // 4. User Login
+
+        // Scanner sc = new Scanner(System.in);
+        // System.out.println("Enter Name : ");
+        // String name = sc.next();
+        // System.out.println("Enter Password");
+        // String pwd = sc.next();
+        // if (name.equals("Suraj") && pwd.equals("1234"))
+        // {
+        //     System.out.println("Login Successful");
+        // }
+        // else
+        // {
+        //     System.out.println("Login Failed");
+        // }
+        // sc.close();
+
         
     }
 }
