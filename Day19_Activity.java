@@ -7,13 +7,13 @@ public class Day19_Activity
         // Scanner sc = new Scanner(System.in);
         // System.out.print("Enter the Number : ");
         // int num_a = sc.nextInt();
-        
+
     //     System.out.print("Enter the Second Number : ");
     //     int num_b = sc.nextInt();
 
     //     int original_a = num_a;
     //     int original_b = num_b;
-    
+
     // while (num_b > 0)
     // {
     //     int common_div = num_a % num_b;
@@ -26,5 +26,20 @@ public class Day19_Activity
     void main(String[] args)
     {
         // GCD();
+
+        // 1. Check Whether Age is Greater Than 60
+
+        // Scanner sc = new Scanner(System.in);
+        // System.out.print("Enter Your Age : ");
+        // byte age = sc.nextByte();
+        // if ( age >= 60)
+        // {
+        //     System.out.println("Senior Citizen");
+        // }
+        // else
+        // {
+        //     System.out.println("Not a Senior Citizen");
+        // }
+        // sc.close();
     }
 }
