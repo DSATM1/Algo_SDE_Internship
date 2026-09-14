@@ -57,6 +57,23 @@ public class Day19_Activity
         // }
         // sc.close();
 
+        // 3. Bank Loan Eligibility
+
+        // Scanner sc =new Scanner(System.in);
+        // System.out.print("Enter Your Age : ");
+        // byte age = sc.nextByte();
+        // System.out.print("Enter Your Salary : ");
+        // long salary = sc.nextLong();
+        // if (age >= 21 && salary >= 30000)
+        // {
+        //     System.out.println("Loan Approved");
+        // }
+        // else
+        // {
+        //     System.out.println("Not Approved");
+        // }
+        // sc.close();
+
         
     }
 }
