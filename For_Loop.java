@@ -15,10 +15,18 @@ public class For_Loop
         //     System.out.println(i);
         // }
 
-        // Reverse Oreder 10 - 1
-        for ( int i = 10 ; i >= 1; i--)
-        {
-            System.out.println(i);
-        }
+        // // Reverse Oreder 10 - 1
+        // for ( int i = 10 ; i >= 1; i--)
+        // {
+        //     System.out.println(i);
+        // }
+
+        // // Sum of Number from 1 to 10
+        // int sum = 0 ;
+        // for ( int i = 0; i <= 10; i++)
+        // {
+        //     sum = sum+i;
+        // }
+        // System.out.println(sum);
     }
 }
