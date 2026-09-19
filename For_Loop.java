@@ -14,5 +14,11 @@ public class For_Loop
         //     if(i % 2 == 0)
         //     System.out.println(i);
         // }
+
+        // Reverse Oreder 10 - 1
+        for ( int i = 10 ; i >= 1; i--)
+        {
+            System.out.println(i);
+        }
     }
 }
