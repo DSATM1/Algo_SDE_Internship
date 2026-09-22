@@ -35,17 +35,30 @@ public class Day_22
 
     // Find Max
 
-    static int findMax(int arr[])
+    // static int findMax(int arr[])
+    // {
+    //     int max = arr[0];
+    //     for (int x : arr)
+    //     {
+    //         if(x > max)
+    //         {
+    //             max = x;
+    //         }
+    //     }
+    //     return max;
+    // }
+
+    // Search element
+    static boolean search(int arr[],int key)
     {
-        int max = arr[0];
         for (int x : arr)
         {
-            if(x > max)
+            if (x == key)
             {
-                max = x;
+                return true;
             }
         }
-        return max;
+        return false;
     }
 
 
@@ -61,7 +74,13 @@ public class Day_22
         // int[] arr = {1,3,5,7};
         // System.out.println(findSum(arr));
 
-        int arr[] = {10,20,30,40,50};
-        System.out.println(findMax(arr));
+        // int arr[] = {10,20,30,40,50};
+        // System.out.println(findMax(arr));
+
+
+        int arr[] = {9,4,30,20,100,43};
+        System.out.println(search(arr, 10)); // false
+        System.out.println(search(arr, 30)); // true
+
     }
 }
