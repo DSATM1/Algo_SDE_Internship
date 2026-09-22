@@ -49,17 +49,17 @@ public class Day_22
     // }
 
     // Search element
-    static boolean search(int arr[],int key)
-    {
-        for (int x : arr)
-        {
-            if (x == key)
-            {
-                return true;
-            }
-        }
-        return false;
-    }
+    // static boolean search(int arr[],int key)
+    // {
+    //     for (int x : arr)
+    //     {
+    //         if (x == key)
+    //         {
+    //             return true;
+    //         }
+    //     }
+    //     return false;
+    // }
 
 
     public static void main(String [] args)
@@ -77,10 +77,8 @@ public class Day_22
         // int arr[] = {10,20,30,40,50};
         // System.out.println(findMax(arr));
 
-
-        int arr[] = {9,4,30,20,100,43};
-        System.out.println(search(arr, 10)); // false
-        System.out.println(search(arr, 30)); // true
-
+        // int arr[] = {9,4,30,20,100,43};
+        // System.out.println(search(arr, 10)); // false
+        // System.out.println(search(arr, 30)); // true
     }
 }
