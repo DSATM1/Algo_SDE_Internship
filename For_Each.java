@@ -37,12 +37,24 @@ public class For_Each
         // }
         // System.out.println(sum);
 
-        int arr[] = {2,3,10,20};
-        int ans = 1;
-        for (int i = 0; i <= arr.length - 1; i++)
+        // int arr[] = {2,3,10,20};
+        // int ans = 1;
+        // for (int i = 0; i <= arr.length - 1; i++)
+        // {
+        //     ans = ans * arr[i];
+        // }
+        // System.out.println(ans);
+
+
+        int arr[] = {21,3,10,20};
+        int max = arr.length;
+        for (int x : arr)
         {
-            ans = ans * arr[i];
+            if (x > max)
+            {
+                max = x;
+            }
         }
-        System.out.println(ans);
+        System.out.println(max); 
     }
 }
