@@ -21,26 +21,47 @@ public class Day_22
     // }
 
 
-    static int findSum(int[] arr)
-    {
-        int sum = 0;
-        for(int x : arr)
-        {
-            sum += x;
+    // static int findSum(int[] arr)
+    // {
+    //     int sum = 0;
+    //     for(int x : arr)
+    //     {
+    //         sum += x;
             
+    //     }
+    //     return sum;
+    // }
+
+
+    // Find Max
+
+    static int findMax(int arr[])
+    {
+        int max = arr[0];
+        for (int x : arr)
+        {
+            if(x > max)
+            {
+                max = x;
+            }
         }
-        return sum;
+        return max;
     }
+
 
     public static void main(String [] args)
     {
         // show(new int[] {1,2,3,4});
+
         //traverse(new int[] {1,2,3,4}); // anonymous array which dosen't have a name  
         
         // int[ ] arr = {1,2,3,4};
         // traverse(arr);
 
-        int[] arr = {1,3,5,7};
-        System.out.println(findSum(arr));
+        // int[] arr = {1,3,5,7};
+        // System.out.println(findSum(arr));
+
+        int arr[] = {10,20,30,40,50};
+        System.out.println(findMax(arr));
     }
 }
