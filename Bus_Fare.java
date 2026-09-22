@@ -12,7 +12,6 @@ public class Bus_Fare
         System.out.println("Enter Travelled Distance in KM : ");
         kilo = sc.nextFloat();
 
-
         int Board = 10;
         int fare = Board + (int)(kilo*2);
 
@@ -34,9 +33,6 @@ public class Bus_Fare
         {
             System.out.println("Not a valid Age  or Distance !!!! ");
         }
-
-
-
     }
 
     public static void main(String [] args)
