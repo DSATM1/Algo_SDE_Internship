@@ -46,15 +46,30 @@ public class For_Each
         // System.out.println(ans);
 
 
-        int arr[] = {21,3,10,20};
-        int max = arr.length;
-        for (int x : arr)
+        // int arr[] = {21,3,-10,20};
+        // int max = arr.length;
+        // for (int x : arr)
+        // {
+        //     if (x < max)
+        //     {
+        //         max = x;
+        //     }
+        // }
+        // System.out.println(max); 
+
+        int arr[] = {1,2,3,4,5};
+        int first_max = arr[0];
+        int sec_max = arr[0];
+
+        for(int num : arr)
         {
-            if (x > max)
+            if (num > first_max)
             {
-                max = x;
+                sec_max = first_max;
+                first_max = num;
             }
         }
-        System.out.println(max); 
+        System.out.println(sec_max);
+
     }
 }
