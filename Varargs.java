@@ -1,10 +1,10 @@
 public class Varargs 
 {
-    static void show(int x, int...a)
+    static void show(int...a)
     {
         System.out.println("Args");
 
-        for(int i = 0; i<a.length; i++)
+        for(int i = 0; i < a.length; i++)
         {
             System.out.print(a[i]);
             if(i != a.length - 1)
