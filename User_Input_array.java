@@ -24,6 +24,7 @@ public class User_Input_array
             arr[i] = sc.nextInt();
         }
         System.out.print("Array Elements : ");
+        
         for (int x : arr)
         {
             System.out.print(x);
