@@ -36,9 +36,16 @@ public class For_Loop
         //     System.out.println(n + " X " + i + " = " + n * i);
         // }
 
-        for(int i = 2; i<= 10; i+=2)
+        // for(int i = 2; i<= 10; i+=2)
+        // {
+        //     System.out.println(i);
+        // }
+
+        int i = 1;
+        while(i<=10)
         {
             System.out.println(i);
+            i+=2;
         }
     }
 }
