@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "October",
+            "request": "launch",
+            "mainClass": "October",
+            "projectName": "Algo_SDE_Internship_65b4884b"
+        },
+        {
+            "type": "java",
             "name": "User_Input_array",
             "request": "launch",
             "mainClass": "User_Input_array",
